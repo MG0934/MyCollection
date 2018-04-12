@@ -1,7 +1,7 @@
-package com.mylang.test;
+package com.mylang.list.test;
 
-import com.mylang.MyList;
-import com.mylang.MySeqList;
+import com.mylang.list.MyList;
+import com.mylang.list.MySeqList;
 
 /**
  * description: 线性表测试demo
